@@ -1,0 +1,1097 @@
+{
+  "app": {
+    "name": "COMO EDGE",
+    "tagline": "Your Dream Job preparation partner for West Bengal & National Government Exams"
+  },
+  "notifications": [
+    {
+      "id": "n1",
+      "type": "text",
+      "title": "স্বাগতম! COMO EDGE-এ নতুন কন্টেন্ট যোগ হয়েছে",
+      "msg": "এটি একটি টেক্সট নোটিফিকেশন। এখানে যেকোনো ঘোষণা লিখতে পারেন।",
+      "date": "2026-10-10",
+      "link": ""
+    },
+    {
+      "id": "n2",
+      "type": "pdf",
+      "title": "PDF নোটিফিকেশন (টেস্ট)",
+      "msg": "নিচের বাটনে চাপলে PDF ভিউয়ারে খুলবে — পেন/হাইলাইট চেষ্টা করুন।",
+      "date": "2026-10-10",
+      "link": "https://raw.githubusercontent.com/mozilla/pdf.js/ba2edeae/web/compressed.tracemonkey-pldi-09.pdf"
+    },
+    {
+      "id": "n3",
+      "type": "image",
+      "title": "ইমেজ নোটিফিকেশন (টেস্ট)",
+      "msg": "নিচের বাটনে চাপলে ইমেজ ভিউয়ারে খুলবে।",
+      "date": "2026-10-10",
+      "link": "https://picsum.photos/id/1015/1400/1000"
+    },
+    {
+      "id": "n4",
+      "type": "link",
+      "title": "লিংক নোটিফিকেশন (টেস্ট)",
+      "msg": "নিচের বাটনে চাপলে ওয়েবসাইট খুলবে।",
+      "date": "2026-10-09",
+      "link": "https://www.wbpsc.gov.in"
+    }
+  ],
+  "subjects": [
+    {
+      "name": "General Studies",
+      "code": "Ge",
+      "color": "#f5a300"
+    },
+    {
+      "name": "Mathematics",
+      "code": "Ma",
+      "color": "#3a7bff"
+    },
+    {
+      "name": "English",
+      "code": "En",
+      "color": "#e8453c"
+    },
+    {
+      "name": "Bengali",
+      "code": "Be",
+      "color": "#1fb6ff"
+    },
+    {
+      "name": "Indian Polity",
+      "code": "In",
+      "color": "#ff4d4d"
+    },
+    {
+      "name": "Indian Economy",
+      "code": "In",
+      "color": "#9b4dff"
+    },
+    {
+      "name": "History",
+      "code": "Hi",
+      "color": "#22c55e"
+    },
+    {
+      "name": "Geography",
+      "code": "Ge",
+      "color": "#14b8d4"
+    },
+    {
+      "name": "Science and Technology",
+      "code": "Sc",
+      "color": "#22c55e"
+    },
+    {
+      "name": "Computer",
+      "code": "Co",
+      "color": "#a855f7"
+    },
+    {
+      "name": "Current Affairs",
+      "code": "Cu",
+      "color": "#f97316"
+    },
+    {
+      "name": "Reasoning",
+      "code": "Re",
+      "color": "#ec4899"
+    },
+    {
+      "name": "GK",
+      "code": "GK",
+      "color": "#10b981"
+    }
+  ],
+  "exams": [
+    {
+      "id": "psc",
+      "code": "WB",
+      "name": "WBPSC",
+      "split": 2,
+      "color": [
+        "#2f7bff",
+        "#1aa3ff"
+      ],
+      "icon": "🏛️",
+      "overview": [
+        {
+          "k": "Posts",
+          "v": "Various"
+        },
+        {
+          "k": "Total Vacancies",
+          "v": "As per notification"
+        },
+        {
+          "k": "Qualification",
+          "v": "As per post"
+        },
+        {
+          "k": "Selection Process",
+          "v": "Prelims / Mains / Interview"
+        }
+      ],
+      "syllabus": {
+        "title": "WBPSC Syllabus",
+        "link": "https://raw.githubusercontent.com/mozilla/pdf.js/ba2edeae/examples/learning/helloworld.pdf"
+      },
+      "notifications": [
+        {
+          "id": "p1",
+          "type": "pdf",
+          "title": "WBPSC নতুন নোটিফিকেশন PDF",
+          "msg": "WBPSC এক্সামের জন্য বিশেষ নোটিফিকেশন।",
+          "date": "2026-10-10",
+          "link": "https://raw.githubusercontent.com/mozilla/pdf.js/ba2edeae/web/compressed.tracemonkey-pldi-09.pdf"
+        }
+      ],
+      "videos": [
+        {
+          "t": "ইতিহাস ক্লাস ১ — প্রাচীন ভারত",
+          "d": "25:00",
+          "s": "History",
+          "link": "https://www.youtube.com/watch?v=aqz-KE-bpKQ"
+        },
+        {
+          "t": "ইতিহাস ক্লাস ২ — মধ্যযুগ",
+          "d": "30:00",
+          "s": "History",
+          "link": "https://www.youtube.com/watch?v=aqz-KE-bpKQ"
+        },
+        {
+          "t": "ভূগোল ক্লাস ১ — ভারতের নদী",
+          "d": "22:00",
+          "s": "Geography",
+          "link": "https://www.youtube.com/watch?v=aqz-KE-bpKQ"
+        },
+        {
+          "t": "Polity ক্লাস ১ — সংবিধান",
+          "d": "40:00",
+          "s": "Indian Polity",
+          "link": "https://www.youtube.com/watch?v=aqz-KE-bpKQ"
+        }
+      ],
+      "notes": [
+        {
+          "t": "ইতিহাস নোট (১৪ পৃষ্ঠা PDF)",
+          "p": "১৪ পৃষ্ঠা",
+          "s": "History",
+          "link": "https://raw.githubusercontent.com/mozilla/pdf.js/ba2edeae/web/compressed.tracemonkey-pldi-09.pdf"
+        },
+        {
+          "t": "ভূগোল নোট (ছবি)",
+          "p": "১ পৃষ্ঠা",
+          "s": "Geography",
+          "link": "https://picsum.photos/id/1043/1400/1000"
+        },
+        {
+          "t": "Polity নোট (PDF)",
+          "p": "১ পৃষ্ঠা",
+          "s": "Indian Polity",
+          "link": "https://raw.githubusercontent.com/mozilla/pdf.js/ba2edeae/examples/learning/helloworld.pdf"
+        },
+        {
+          "t": "GK নোট (ছবি)",
+          "p": "১ পৃষ্ঠা",
+          "s": "GK",
+          "link": "https://picsum.photos/id/1015/1400/1000"
+        }
+      ],
+      "charts": [
+        {
+          "t": "ভারতের মানচিত্র চার্ট (ছবি)",
+          "p": "১ পৃষ্ঠা",
+          "s": "Geography",
+          "link": "https://picsum.photos/id/1015/1400/1000"
+        },
+        {
+          "t": "সময়রেখা চার্ট (PDF)",
+          "p": "১৪ পৃষ্ঠা",
+          "s": "History",
+          "link": "https://raw.githubusercontent.com/mozilla/pdf.js/ba2edeae/web/compressed.tracemonkey-pldi-09.pdf"
+        }
+      ],
+      "practice": [
+        {
+          "t": "Practice Set 1 — সাধারণ জ্ঞান",
+          "q": 5,
+          "tag": "GK"
+        },
+        {
+          "t": "Practice Set 2 — নিজের প্রশ্নসহ",
+          "tag": "Polity",
+          "questions": [
+            {
+              "q": "ভারতের সংবিধান প্রণেতা কমিটির সভাপতি কে ছিলেন?",
+              "opts": [
+                "ডঃ বি আর আম্বেদকর",
+                "ডঃ রাজেন্দ্র প্রসাদ",
+                "জওহরলাল নেহরু",
+                "সর্দার প্যাটেল"
+              ],
+              "ans": 1
+            },
+            {
+              "q": "মৌলিক অধিকার সংবিধানের কোন অংশে আছে?",
+              "opts": [
+                "অংশ ১",
+                "অংশ ৩",
+                "অংশ ৪",
+                "অংশ ৫"
+              ],
+              "ans": 1
+            }
+          ]
+        }
+      ],
+      "mocks": [
+        {
+          "t": "Mock Test 1 (১০ প্রশ্ন, ১০ মিনিট)",
+          "q": 10,
+          "min": 10,
+          "tag": "Full Mock"
+        },
+        {
+          "t": "Mock Test 2 (৫ প্রশ্ন, ৩ মিনিট)",
+          "q": 5,
+          "min": 3,
+          "tag": "Quick"
+        }
+      ]
+    },
+    {
+      "id": "wbp",
+      "code": "WB",
+      "name": "WBP",
+      "split": 2,
+      "color": [
+        "#ff3b3b",
+        "#c4162a"
+      ],
+      "icon": "🛡️",
+      "overview": [
+        {
+          "k": "Posts",
+          "v": "Various"
+        },
+        {
+          "k": "Total Vacancies",
+          "v": "As per notification"
+        },
+        {
+          "k": "Qualification",
+          "v": "As per post"
+        },
+        {
+          "k": "Selection Process",
+          "v": "Prelims / Mains / Interview"
+        }
+      ],
+      "syllabus": {
+        "title": "WBP Syllabus",
+        "link": ""
+      },
+      "notifications": [],
+      "videos": [
+        {
+          "t": "এখানে ভিডিওর নাম লিখুন",
+          "d": "25:00",
+          "s": "General Studies",
+          "link": ""
+        }
+      ],
+      "notes": [
+        {
+          "t": "এখানে নোটের নাম লিখুন",
+          "p": "১০ পৃষ্ঠা",
+          "s": "General Studies",
+          "link": ""
+        }
+      ],
+      "charts": [
+        {
+          "t": "এখানে চার্টের নাম লিখুন",
+          "p": "১ পৃষ্ঠা",
+          "s": "General Studies",
+          "link": ""
+        }
+      ],
+      "practice": [
+        {
+          "t": "এখানে প্র্যাকটিস সেটের নাম লিখুন",
+          "q": 5,
+          "tag": "General Studies"
+        }
+      ],
+      "mocks": [
+        {
+          "t": "এখানে মক টেস্টের নাম লিখুন",
+          "q": 5,
+          "min": 10,
+          "tag": "Full Mock"
+        }
+      ]
+    },
+    {
+      "id": "kp",
+      "code": "KP",
+      "name": "KP",
+      "split": 1,
+      "color": [
+        "#a24bff",
+        "#6a2fd1"
+      ],
+      "icon": "👮",
+      "overview": [
+        {
+          "k": "Posts",
+          "v": "Various"
+        },
+        {
+          "k": "Total Vacancies",
+          "v": "As per notification"
+        },
+        {
+          "k": "Qualification",
+          "v": "As per post"
+        },
+        {
+          "k": "Selection Process",
+          "v": "Prelims / Mains / Interview"
+        }
+      ],
+      "syllabus": {
+        "title": "KP Syllabus",
+        "link": ""
+      },
+      "notifications": [],
+      "videos": [
+        {
+          "t": "এখানে ভিডিওর নাম লিখুন",
+          "d": "25:00",
+          "s": "General Studies",
+          "link": ""
+        }
+      ],
+      "notes": [
+        {
+          "t": "এখানে নোটের নাম লিখুন",
+          "p": "১০ পৃষ্ঠা",
+          "s": "General Studies",
+          "link": ""
+        }
+      ],
+      "charts": [
+        {
+          "t": "এখানে চার্টের নাম লিখুন",
+          "p": "১ পৃষ্ঠা",
+          "s": "General Studies",
+          "link": ""
+        }
+      ],
+      "practice": [
+        {
+          "t": "এখানে প্র্যাকটিস সেটের নাম লিখুন",
+          "q": 5,
+          "tag": "General Studies"
+        }
+      ],
+      "mocks": [
+        {
+          "t": "এখানে মক টেস্টের নাম লিখুন",
+          "q": 5,
+          "min": 10,
+          "tag": "Full Mock"
+        }
+      ]
+    },
+    {
+      "id": "ssc",
+      "code": "SS",
+      "name": "SSC",
+      "split": 1,
+      "color": [
+        "#21d07a",
+        "#0c9a5a"
+      ],
+      "icon": "📜",
+      "overview": [
+        {
+          "k": "Posts",
+          "v": "Various"
+        },
+        {
+          "k": "Total Vacancies",
+          "v": "As per notification"
+        },
+        {
+          "k": "Qualification",
+          "v": "As per post"
+        },
+        {
+          "k": "Selection Process",
+          "v": "Prelims / Mains / Interview"
+        }
+      ],
+      "syllabus": {
+        "title": "SSC Syllabus",
+        "link": ""
+      },
+      "notifications": [],
+      "videos": [
+        {
+          "t": "এখানে ভিডিওর নাম লিখুন",
+          "d": "25:00",
+          "s": "General Studies",
+          "link": ""
+        }
+      ],
+      "notes": [
+        {
+          "t": "এখানে নোটের নাম লিখুন",
+          "p": "১০ পৃষ্ঠা",
+          "s": "General Studies",
+          "link": ""
+        }
+      ],
+      "charts": [
+        {
+          "t": "এখানে চার্টের নাম লিখুন",
+          "p": "১ পৃষ্ঠা",
+          "s": "General Studies",
+          "link": ""
+        }
+      ],
+      "practice": [
+        {
+          "t": "এখানে প্র্যাকটিস সেটের নাম লিখুন",
+          "q": 5,
+          "tag": "General Studies"
+        }
+      ],
+      "mocks": [
+        {
+          "t": "এখানে মক টেস্টের নাম লিখুন",
+          "q": 5,
+          "min": 10,
+          "tag": "Full Mock"
+        }
+      ]
+    },
+    {
+      "id": "railway",
+      "code": "RA",
+      "name": "RAILWAY",
+      "split": 4,
+      "color": [
+        "#ff8a1f",
+        "#ff5a00"
+      ],
+      "icon": "🚆",
+      "overview": [
+        {
+          "k": "Posts",
+          "v": "Various"
+        },
+        {
+          "k": "Total Vacancies",
+          "v": "As per notification"
+        },
+        {
+          "k": "Qualification",
+          "v": "As per post"
+        },
+        {
+          "k": "Selection Process",
+          "v": "Prelims / Mains / Interview"
+        }
+      ],
+      "syllabus": {
+        "title": "RAILWAY Syllabus",
+        "link": ""
+      },
+      "notifications": [],
+      "videos": [
+        {
+          "t": "এখানে ভিডিওর নাম লিখুন",
+          "d": "25:00",
+          "s": "General Studies",
+          "link": ""
+        }
+      ],
+      "notes": [
+        {
+          "t": "এখানে নোটের নাম লিখুন",
+          "p": "১০ পৃষ্ঠা",
+          "s": "General Studies",
+          "link": ""
+        }
+      ],
+      "charts": [
+        {
+          "t": "এখানে চার্টের নাম লিখুন",
+          "p": "১ পৃষ্ঠা",
+          "s": "General Studies",
+          "link": ""
+        }
+      ],
+      "practice": [
+        {
+          "t": "এখানে প্র্যাকটিস সেটের নাম লিখুন",
+          "q": 5,
+          "tag": "General Studies"
+        }
+      ],
+      "mocks": [
+        {
+          "t": "এখানে মক টেস্টের নাম লিখুন",
+          "q": 5,
+          "min": 10,
+          "tag": "Full Mock"
+        }
+      ]
+    },
+    {
+      "id": "wbssc",
+      "code": "WB",
+      "name": "WB SSC",
+      "split": 3,
+      "color": [
+        "#1ac8ff",
+        "#1a7bff"
+      ],
+      "icon": "🏫",
+      "overview": [
+        {
+          "k": "Posts",
+          "v": "Various"
+        },
+        {
+          "k": "Total Vacancies",
+          "v": "As per notification"
+        },
+        {
+          "k": "Qualification",
+          "v": "As per post"
+        },
+        {
+          "k": "Selection Process",
+          "v": "Prelims / Mains / Interview"
+        }
+      ],
+      "syllabus": {
+        "title": "WB SSC Syllabus",
+        "link": ""
+      },
+      "notifications": [],
+      "videos": [
+        {
+          "t": "এখানে ভিডিওর নাম লিখুন",
+          "d": "25:00",
+          "s": "General Studies",
+          "link": ""
+        }
+      ],
+      "notes": [
+        {
+          "t": "এখানে নোটের নাম লিখুন",
+          "p": "১০ পৃষ্ঠা",
+          "s": "General Studies",
+          "link": ""
+        }
+      ],
+      "charts": [
+        {
+          "t": "এখানে চার্টের নাম লিখুন",
+          "p": "১ পৃষ্ঠা",
+          "s": "General Studies",
+          "link": ""
+        }
+      ],
+      "practice": [
+        {
+          "t": "এখানে প্র্যাকটিস সেটের নাম লিখুন",
+          "q": 5,
+          "tag": "General Studies"
+        }
+      ],
+      "mocks": [
+        {
+          "t": "এখানে মক টেস্টের নাম লিখুন",
+          "q": 5,
+          "min": 10,
+          "tag": "Full Mock"
+        }
+      ]
+    },
+    {
+      "id": "panchayat",
+      "code": "PO",
+      "name": "PONCHAYET",
+      "split": 5,
+      "color": [
+        "#ff4fa3",
+        "#d11a7a"
+      ],
+      "icon": "👥",
+      "overview": [
+        {
+          "k": "Posts",
+          "v": "Various"
+        },
+        {
+          "k": "Total Vacancies",
+          "v": "As per notification"
+        },
+        {
+          "k": "Qualification",
+          "v": "As per post"
+        },
+        {
+          "k": "Selection Process",
+          "v": "Prelims / Mains / Interview"
+        }
+      ],
+      "syllabus": {
+        "title": "PONCHAYET Syllabus",
+        "link": ""
+      },
+      "notifications": [],
+      "videos": [
+        {
+          "t": "এখানে ভিডিওর নাম লিখুন",
+          "d": "25:00",
+          "s": "General Studies",
+          "link": ""
+        }
+      ],
+      "notes": [
+        {
+          "t": "এখানে নোটের নাম লিখুন",
+          "p": "১০ পৃষ্ঠা",
+          "s": "General Studies",
+          "link": ""
+        }
+      ],
+      "charts": [
+        {
+          "t": "এখানে চার্টের নাম লিখুন",
+          "p": "১ পৃষ্ঠা",
+          "s": "General Studies",
+          "link": ""
+        }
+      ],
+      "practice": [
+        {
+          "t": "এখানে প্র্যাকটিস সেটের নাম লিখুন",
+          "q": 5,
+          "tag": "General Studies"
+        }
+      ],
+      "mocks": [
+        {
+          "t": "এখানে মক টেস্টের নাম লিখুন",
+          "q": 5,
+          "min": 10,
+          "tag": "Full Mock"
+        }
+      ]
+    },
+    {
+      "id": "banking",
+      "code": "BA",
+      "name": "BANKING",
+      "split": 4,
+      "color": [
+        "#ffd400",
+        "#ff9f00"
+      ],
+      "icon": "🏦",
+      "overview": [
+        {
+          "k": "Posts",
+          "v": "Various"
+        },
+        {
+          "k": "Total Vacancies",
+          "v": "As per notification"
+        },
+        {
+          "k": "Qualification",
+          "v": "As per post"
+        },
+        {
+          "k": "Selection Process",
+          "v": "Prelims / Mains / Interview"
+        }
+      ],
+      "syllabus": {
+        "title": "BANKING Syllabus",
+        "link": ""
+      },
+      "notifications": [],
+      "videos": [
+        {
+          "t": "এখানে ভিডিওর নাম লিখুন",
+          "d": "25:00",
+          "s": "General Studies",
+          "link": ""
+        }
+      ],
+      "notes": [
+        {
+          "t": "এখানে নোটের নাম লিখুন",
+          "p": "১০ পৃষ্ঠা",
+          "s": "General Studies",
+          "link": ""
+        }
+      ],
+      "charts": [
+        {
+          "t": "এখানে চার্টের নাম লিখুন",
+          "p": "১ পৃষ্ঠা",
+          "s": "General Studies",
+          "link": ""
+        }
+      ],
+      "practice": [
+        {
+          "t": "এখানে প্র্যাকটিস সেটের নাম লিখুন",
+          "q": 5,
+          "tag": "General Studies"
+        }
+      ],
+      "mocks": [
+        {
+          "t": "এখানে মক টেস্টের নাম লিখুন",
+          "q": 5,
+          "min": 10,
+          "tag": "Full Mock"
+        }
+      ]
+    },
+    {
+      "id": "rrb",
+      "code": "RR",
+      "name": "RRB",
+      "split": 1,
+      "color": [
+        "#18d6a0",
+        "#0a9a8a"
+      ],
+      "icon": "🚉",
+      "overview": [
+        {
+          "k": "Posts",
+          "v": "Various"
+        },
+        {
+          "k": "Total Vacancies",
+          "v": "As per notification"
+        },
+        {
+          "k": "Qualification",
+          "v": "As per post"
+        },
+        {
+          "k": "Selection Process",
+          "v": "Prelims / Mains / Interview"
+        }
+      ],
+      "syllabus": {
+        "title": "RRB Syllabus",
+        "link": ""
+      },
+      "notifications": [],
+      "videos": [
+        {
+          "t": "এখানে ভিডিওর নাম লিখুন",
+          "d": "25:00",
+          "s": "General Studies",
+          "link": ""
+        }
+      ],
+      "notes": [
+        {
+          "t": "এখানে নোটের নাম লিখুন",
+          "p": "১০ পৃষ্ঠা",
+          "s": "General Studies",
+          "link": ""
+        }
+      ],
+      "charts": [
+        {
+          "t": "এখানে চার্টের নাম লিখুন",
+          "p": "১ পৃষ্ঠা",
+          "s": "General Studies",
+          "link": ""
+        }
+      ],
+      "practice": [
+        {
+          "t": "এখানে প্র্যাকটিস সেটের নাম লিখুন",
+          "q": 5,
+          "tag": "General Studies"
+        }
+      ],
+      "mocks": [
+        {
+          "t": "এখানে মক টেস্টের নাম লিখুন",
+          "q": 5,
+          "min": 10,
+          "tag": "Full Mock"
+        }
+      ]
+    },
+    {
+      "id": "sebi",
+      "code": "SE",
+      "name": "SEBI",
+      "split": 2,
+      "color": [
+        "#b04bff",
+        "#7a2fe0"
+      ],
+      "icon": "📈",
+      "overview": [
+        {
+          "k": "Posts",
+          "v": "Various"
+        },
+        {
+          "k": "Total Vacancies",
+          "v": "As per notification"
+        },
+        {
+          "k": "Qualification",
+          "v": "As per post"
+        },
+        {
+          "k": "Selection Process",
+          "v": "Prelims / Mains / Interview"
+        }
+      ],
+      "syllabus": {
+        "title": "SEBI Syllabus",
+        "link": ""
+      },
+      "notifications": [],
+      "videos": [
+        {
+          "t": "এখানে ভিডিওর নাম লিখুন",
+          "d": "25:00",
+          "s": "General Studies",
+          "link": ""
+        }
+      ],
+      "notes": [
+        {
+          "t": "এখানে নোটের নাম লিখুন",
+          "p": "১০ পৃষ্ঠা",
+          "s": "General Studies",
+          "link": ""
+        }
+      ],
+      "charts": [
+        {
+          "t": "এখানে চার্টের নাম লিখুন",
+          "p": "১ পৃষ্ঠা",
+          "s": "General Studies",
+          "link": ""
+        }
+      ],
+      "practice": [
+        {
+          "t": "এখানে প্র্যাকটিস সেটের নাম লিখুন",
+          "q": 5,
+          "tag": "General Studies"
+        }
+      ],
+      "mocks": [
+        {
+          "t": "এখানে মক টেস্টের নাম লিখুন",
+          "q": 5,
+          "min": 10,
+          "tag": "Full Mock"
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "code": "AN",
+      "name": "AND OTHER JOBS",
+      "split": 3,
+      "color": [
+        "#7f95b8",
+        "#4a6490"
+      ],
+      "icon": "💼",
+      "overview": [
+        {
+          "k": "Posts",
+          "v": "Various"
+        },
+        {
+          "k": "Total Vacancies",
+          "v": "As per notification"
+        },
+        {
+          "k": "Qualification",
+          "v": "As per post"
+        },
+        {
+          "k": "Selection Process",
+          "v": "Prelims / Mains / Interview"
+        }
+      ],
+      "syllabus": {
+        "title": "AND OTHER JOBS Syllabus",
+        "link": ""
+      },
+      "notifications": [],
+      "videos": [
+        {
+          "t": "এখানে ভিডিওর নাম লিখুন",
+          "d": "25:00",
+          "s": "General Studies",
+          "link": ""
+        }
+      ],
+      "notes": [
+        {
+          "t": "এখানে নোটের নাম লিখুন",
+          "p": "১০ পৃষ্ঠা",
+          "s": "General Studies",
+          "link": ""
+        }
+      ],
+      "charts": [
+        {
+          "t": "এখানে চার্টের নাম লিখুন",
+          "p": "১ পৃষ্ঠা",
+          "s": "General Studies",
+          "link": ""
+        }
+      ],
+      "practice": [
+        {
+          "t": "এখানে প্র্যাকটিস সেটের নাম লিখুন",
+          "q": 5,
+          "tag": "General Studies"
+        }
+      ],
+      "mocks": [
+        {
+          "t": "এখানে মক টেস্টের নাম লিখুন",
+          "q": 5,
+          "min": 10,
+          "tag": "Full Mock"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "ভারতীয় সংবিধান কার্যকর হয় কোন তারিখে?",
+      "opts": [
+        "১৫ আগস্ট ১৯৪৭",
+        "২৬ জানুয়ারি ১৯৫০",
+        "২৬ নভেম্বর ১৯৪৯",
+        "২ অক্টোবর ১৯৫০"
+      ],
+      "ans": 1
+    },
+    {
+      "q": "পশ্চিমবঙ্গের দীর্ঘতম নদী কোনটি?",
+      "opts": [
+        "দামোদর",
+        "তিস্তা",
+        "গঙ্গা",
+        "অজয়"
+      ],
+      "ans": 2
+    },
+    {
+      "q": "ভারতের প্রথম প্রধানমন্ত্রী কে ছিলেন?",
+      "opts": [
+        "মহাত্মা গান্ধী",
+        "জওহরলাল নেহরু",
+        "সর্দার প্যাটেল",
+        "রাজেন্দ্র প্রসাদ"
+      ],
+      "ans": 1
+    },
+    {
+      "q": "১২ × ১২ = কত?",
+      "opts": [
+        "১২০",
+        "১৪২",
+        "১৪৪",
+        "১৫৬"
+      ],
+      "ans": 2
+    },
+    {
+      "q": "ভারতের জাতীয় পশু কোনটি?",
+      "opts": [
+        "সিংহ",
+        "বাঘ",
+        "হাতি",
+        "চিতা"
+      ],
+      "ans": 1
+    },
+    {
+      "q": "ভারতের রাজধানী কোনটি?",
+      "opts": [
+        "মুম্বাই",
+        "কলকাতা",
+        "নতুন দিল্লি",
+        "চেন্নাই"
+      ],
+      "ans": 2
+    },
+    {
+      "q": "পশ্চিমবঙ্গের রাজধানী কোনটি?",
+      "opts": [
+        "হাওড়া",
+        "কলকাতা",
+        "দুর্গাপুর",
+        "শিলিগুড়ি"
+      ],
+      "ans": 1
+    },
+    {
+      "q": "৭ × ৮ = কত?",
+      "opts": [
+        "৪৮",
+        "৫৪",
+        "৫৬",
+        "৬৪"
+      ],
+      "ans": 2
+    },
+    {
+      "q": "ভারতের জাতীয় সঙ্গীত কে রচনা করেন?",
+      "opts": [
+        "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+        "রবীন্দ্রনাথ ঠাকুর",
+        "নজরুল ইসলাম",
+        "স্বামী বিবেকানন্দ"
+      ],
+      "ans": 1
+    },
+    {
+      "q": "ভারতের জাতীয় পাখি কোনটি?",
+      "opts": [
+        "ময়ূর",
+        "কোকিল",
+        "টিয়া",
+        "বাজ"
+      ],
+      "ans": 0
+    }
+  ]
+}

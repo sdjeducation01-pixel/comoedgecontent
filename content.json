@@ -782,14 +782,14 @@
     },
     {
       "id": "rbi",
-      "code": "RR",
+      "code": "RB",
       "name": "RBI",
       "split": 1,
       "color": [
         "#18d6a0",
         "#0a9a8a"
       ],
-      "icon": "🚉",
+      "icon": "🏛️",
       "overview": [
         {
           "k": "Posts",

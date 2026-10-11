@@ -35,7 +35,15 @@
       "msg": "নিচের বাটনে চাপলে ওয়েবসাইট খুলবে।",
       "date": "2026-10-09",
       "link": "https://www.wbpsc.gov.in"
-    }
+    },
+    {
+  "id": "n5",
+  "type": "pdf",
+  "title": "WBPSC Clerkship 2024 — Scheme & Syllabus",
+  "msg": "Clerkship পরীক্ষার স্কিম ও সিলেবাস PDF",
+  "date": "2026-10-11",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/Clerkship2024-SchemeSyllabus_ComoEdge.pdf"
+}
   ],
   "subjects": [
     {

@@ -23,10 +23,10 @@
     {
       "id": "n3",
       "type": "image",
-      "title": "ইমেজ নোটিফিকেশন (টেস্ট)",
-      "msg": "নিচের বাটনে চাপলে ইমেজ ভিউয়ারে খুলবে।",
-      "date": "2026-10-10",
-      "link": "https://picsum.photos/id/1015/1400/1000"
+      "title": "No Notifications Now",
+      "msg": "Stay Tuned",
+      "date": "",
+      "link": ""
     },
     {
       "id": "n4",

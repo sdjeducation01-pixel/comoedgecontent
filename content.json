@@ -423,11 +423,35 @@
   "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/subject_verb_agreement_guide.pdf"
  },
         {
-          "t": "Polity নোট (PDF)",
-          "p": "১ পৃষ্ঠা",
-          "s": "Indian Polity",
-          "link": "https://raw.githubusercontent.com/mozilla/pdf.js/ba2edeae/examples/learning/helloworld.pdf"
-        },
+  "t": "Indian Polity অধ্যায় ১: সংবিধানের প্রস্তাবনা (Preamble)",
+  "p": "৪ পৃষ্ঠা",
+  "s": "Indian Polity",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/Preamble_Detailed_Exam_Notes.pdf"
+},
+{
+  "t": "Indian Polity অধ্যায় ২: ভারতীয় সংবিধানের উৎস (Sources of Constitution)",
+  "p": "৫ পৃষ্ঠা",
+  "s": "Indian Polity",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/sources_of_indian_constitution.pdf"
+},
+{
+  "t": "Indian Polity অধ্যায় ৩: মৌলিক অধিকার (Fundamental Rights)",
+  "p": "৬ পৃষ্ঠা",
+  "s": "Indian Polity",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/fundamental_rights_guide.pdf"
+},
+{
+  "t": "Indian Polity অধ্যায় ৪: রাষ্ট্রের নির্দেশমূলক নীতি (DPSP)",
+  "p": "৬ পৃষ্ঠা",
+  "s": "Indian Polity",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/DPSP_Complete_Study_Notes.pdf"
+},
+{
+  "t": "Indian Polity অধ্যায় ৫: মৌলিক কর্তব্য (Fundamental Duties)",
+  "p": "৩ পৃষ্ঠা",
+  "s": "Indian Polity",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/Fundamental_Duties_Detailed_Guide.pdf"
+},
         {
           "t": "GK নোট (ছবি)",
           "p": "১ পৃষ্ঠা",

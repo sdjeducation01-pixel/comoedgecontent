@@ -549,23 +549,227 @@
           "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/important_geographical_days.pdf"
         },
         {
-  "t": "English Grammer অধ্যায় ১: পার্টস অফ স্পিচ (Parts of Speech)",
+  "t": "সাধারণ ভূগোল অধ্যায় ৪: শিলা, ভূমিকম্প ও পাত সংস্থান তত্ত্ব (Rocks & Plate Tectonics)",
+  "p": "৪ পৃষ্ঠা",
+  "s": "Geography",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/Geography_Exam_Notes_Subhadeep.pdf"
+},
+{
+  "t": "সাধারণ ভূগোল অধ্যায় ৫: ভূ-প্রাকৃতিক প্রক্রিয়া, জোয়ার-ভাটা ও সমুদ্রস্রোত (Geomorphic Processes)",
+  "p": "৫ পৃষ্ঠা",
+  "s": "Geography",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/Geography_Exam_Guide.pdf"
+},
+        {
+  "t": "পশ্চিমবঙ্গের ভূগোল অধ্যায় ১: অবস্থান ও সীমানা (Location & Borders)",
+  "p": "৪ পৃষ্ঠা",
+  "s": "Geography",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/west_bengal_geography_borders.pdf"
+},
+{
+  "t": "পশ্চিমবঙ্গের ভূগোল অধ্যায় ২: ভূপ্রকৃতি (Physiography)",
+  "p": "৪ পৃষ্ঠা",
+  "s": "Geography",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/west_bengal_physiography_details.pdf"
+},
+{
+  "t": "পশ্চিমবঙ্গের ভূগোল অধ্যায় ৩: নদ-নদী ও প্রধান বাঁধ (Rivers & Dams)",
+  "p": "৫ পৃষ্ঠা",
+  "s": "Geography",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/west_bengal_rivers_dams_guide.pdf"
+},
+{
+  "t": "পশ্চিমবঙ্গের ভূগোল অধ্যায় ৪: জলবায়ু ও মৃত্তিকা (Climate & Soil)",
+  "p": "৫ পৃষ্ঠা",
+  "s": "Geography",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/West_Bengal_Climate_and_Soil.pdf"
+},
+{
+  "t": "পশ্চিমবঙ্গের ভূগোল অধ্যায় ৫: অরণ্য ও বন্যপ্রাণী (Forest & Wildlife)",
+  "p": "৬ পৃষ্ঠা",
+  "s": "Geography",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/West_Bengal_Forest_and_Wildlife.pdf"
+},
+{
+  "t": "পশ্চিমবঙ্গের ভূগোল অধ্যায় ৬: কৃষিজ ও খনিজ সম্পদ (Agriculture & Minerals)",
+  "p": "৬ পৃষ্ঠা",
+  "s": "Geography",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/West_Bengal_Agriculture_and_Minerals.pdf"
+},
+{
+  "t": "পশ্চিমবঙ্গের ভূগোল অধ্যায় ৭: জেলাভিত্তিক তথ্য (Districts)",
+  "p": "৭ পৃষ্ঠা",
+  "s": "Geography",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/West_Bengal_Districts_Comprehensive_Guide.pdf"
+},
+{
+  "t": "পশ্চিমবঙ্গের ভূগোল অধ্যায় ৮: পরিবহন ও যোগাযোগ ব্যবস্থা (Transport)",
+  "p": "৫ পৃষ্ঠা",
+  "s": "Geography",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/West_Bengal_Transport_and_Communication.pdf"
+},
+{
+  "t": "পশ্চিমবঙ্গের ভূগোল অধ্যায় ৯: শক্তি সম্পদ (Energy Resources)",
+  "p": "৪ পৃষ্ঠা",
+  "s": "Geography",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/West_Bengal_Energy_Resources_Guide.pdf"
+},
+{
+  "t": "পশ্চিমবঙ্গের ভূগোল অধ্যায় ১০: ভৌগোলিক নির্দেশক বা জিআই ট্যাগ (GI Tags)",
+  "p": "৪ পৃষ্ঠা",
+  "s": "Geography",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/West_Bengal_GI_Tags_Complete_Guide.pdf"
+},
+{
+  "t": "পশ্চিমবঙ্গের ভূগোল অধ্যায় ১১: আদমশুমারি ২০১১ (Census 2011)",
+  "p": "৫ পৃষ্ঠা",
+  "s": "Geography",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/west_bengal_census_2011_comprehensive_guide.pdf"
+},
+{
+  "t": "পশ্চিমবঙ্গের ভূগোল অধ্যায় ১২: রামসার সাইট ও জলাভূমি (Ramsar & Wetlands)",
+  "p": "৩ পৃষ্ঠা",
+  "s": "Geography",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/west_bengal_ramsar_and_wetlands_guide.pdf"
+},
+{
+  "t": "পশ্চিমবঙ্গের ভূগোল অধ্যায় ১৩: উপজাতি ও জনজাতি (Tribes)",
+  "p": "৪ পৃষ্ঠা",
+  "s": "Geography",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/west_bengal_tribes_and_communities_guide.pdf"
+},
+{
+  "t": "পশ্চিমবঙ্গের ভূগোল অধ্যায় ১৪: শৃঙ্গ ও গিরিপথ (Peaks & Passes)",
+  "p": "৬ পৃষ্ঠা",
+  "s": "Geography",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/West_Bengal_Geography_Peaks_Passes.pdf"
+},
+{
+  "t": "পশ্চিমবঙ্গের ভূগোল অধ্যায় ১৫: শিল্প (Industries)",
+  "p": "৪ পৃষ্ঠা",
+  "s": "Geography",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/West_Bengal_Geography_Industries.pdf"
+},
+{
+  "t": "পশ্চিমবঙ্গের ভূগোল অধ্যায় ১৬: প্রাকৃতিক দুর্যোগ ও সমস্যা (Natural Disasters)",
+  "p": "৪ পৃষ্ঠা",
+  "s": "Geography",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/West_Bengal_Natural_Disasters_Issues.pdf"
+},
+{
+  "t": "পশ্চিমবঙ্গের ভূগোল অধ্যায় ১৭: জাতীয় উদ্যান ও অভয়ারণ্য (National Parks)",
+  "p": "৪ পৃষ্ঠা",
+  "s": "Geography",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/west_bengal_national_parks.pdf"
+},
+        {
+  "t": "বাংলা ব্যাকরণ অধ্যায় ১: ধ্বনি ও বর্ণ (Phonetics & Phonology)",
+  "p": "৬ পৃষ্ঠা",
+  "s": "Bengali",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/Bengali_Grammar_Chapter1_Phonetics.pdf"
+},
+{
+  "t": "বাংলা ব্যাকরণ অধ্যায় ২: শব্দ ও শব্দভাণ্ডার (Vocabulary)",
+  "p": "৮ পৃষ্ঠা",
+  "s": "Bengali",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/Bengali_Grammar_Chapter2_Vocabulary.pdf"
+},
+{
+  "t": "বাংলা ব্যাকরণ অধ্যায় ৩: সন্ধি (Sandhi)",
+  "p": "১০ পৃষ্ঠা",
+  "s": "Bengali",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/Bengali_Grammar_Chapter_3_Sandhi.pdf"
+},
+{
+  "t": "বাংলা ব্যাকরণ অধ্যায় ৪: পদ পরিচয় ও পদ পরিবর্তন (Parts of Speech)",
+  "p": "৭ পৃষ্ঠা",
+  "s": "Bengali",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/bengali_grammar_parts_of_speech.pdf"
+},
+        {
+  "t": "English Grammar অধ্যায় ১: পার্টস অফ স্পিচ (Parts of Speech)",
   "p": "১১ পৃষ্ঠা",
   "s": "English",
   "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/English_Grammar_Parts_of_Speech.pdf"
 },
 {
-  "t": "Engkish Grammer অধ্যায় ২: টেন্স (Tenses)",
+  "t": "Engkish Grammar অধ্যায় ২: টেন্স (Tenses)",
   "p": "৬ পৃষ্ঠা",
   "s": "English",
   "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/English_Grammar_Tenses_Guide.pdf"
 },
 {
-  "t": "English Grammer অধ্যায় ৩: সাবজেক্ট-ভার্ব এগ্রিমেন্ট (Subject-Verb Agreement)",
+  "t": "English Grammar অধ্যায় ৩: সাবজেক্ট-ভার্ব এগ্রিমেন্ট (Subject-Verb Agreement)",
   "p": "৫ পৃষ্ঠা",
   "s": "English",
   "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/subject_verb_agreement_guide.pdf"
  },
+        {
+  "t": "English Grammar অধ্যায় ৪: আর্টিকেল (Articles)",
+  "p": "১০ পৃষ্ঠা",
+  "s": "English",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/English_Articles_Complete_Guide.pdf"
+},
+{
+  "t": "English Grammar অধ্যায় ৫: শর্তমূলক বাক্য (Conditional Sentences)",
+  "p": "৪ পৃষ্ঠা",
+  "s": "English",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/Conditional_Sentences_Complete_Guide.pdf"
+},
+{
+  "t": "English Grammar অধ্যায় ৬: ভয়েস পরিবর্তন (Voice Change)",
+  "p": "৭ পৃষ্ঠা",
+  "s": "English",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/Voice_Change_Complete_Guide_SSC_PSC_Defence.pdf"
+},
+{
+  "t": "English Grammar অধ্যায় ৭: বক্তব্য পরিবর্তন (Narration Change)",
+  "p": "৮ পৃষ্ঠা",
+  "s": "English",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/Narration_Change_Complete_Guide.pdf"
+},
+{
+  "t": "English Grammar অধ্যায় ৮: মডিফায়ার, ডিটারমিনার ও ট্যাগ (Modifiers, Determiners & Tags)",
+  "p": "৫ পৃষ্ঠা",
+  "s": "English",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/English_Grammar_Modifiers_Determiners_Tags.pdf"
+},
+{
+  "t": "English Grammar অধ্যায় ৯: ভুল শনাক্তকরণ (Error Spotting)",
+  "p": "৫ পৃষ্ঠা",
+  "s": "English",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/error_spotting_masterclass.pdf"
+},
+{
+  "t": "English Grammar অধ্যায় ১০: বাক্য সংশোধন (Sentence Improvement)",
+  "p": "৮ পৃষ্ঠা",
+  "s": "English",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/English_Grammar_Sentence_Improvement_Master_Guide.pdf"
+},
+{
+  "t": "English Grammar অধ্যায় ১১: শূন্যস্থান পূরণ (Fill in the Blanks)",
+  "p": "৫ পৃষ্ঠা",
+  "s": "English",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/English_Grammar_Fillers_Complete_Guide.pdf"
+},
+{
+  "t": "English Grammar অধ্যায় ১২: ক্লোজ টেস্ট (Cloze Test)",
+  "p": "৫ পৃষ্ঠা",
+  "s": "English",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/Cloze_Test_Master_Guide.pdf"
+},
+{
+  "t": "English Grammar অধ্যায় ১৩: বাক্য সাজানো ও প্যারা জাম্বল (Para Jumbles)",
+  "p": "৬ পৃষ্ঠা",
+  "s": "English",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/Sentence_Rearrangement_Para_Jumbles_Master_Guide.pdf"
+},
+{
+  "t": "English Grammar অধ্যায় ১৪: বাক্য সংযোজন (Sentence Joiners)",
+  "p": "৫ পৃষ্ঠা",
+  "s": "English",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/English_Grammar_Sentence_Joiners_Guide.pdf"
+},
         {
   "t": "Indian Polity অধ্যায় ১: সংবিধানের প্রস্তাবনা (Preamble)",
   "p": "৪ পৃষ্ঠা",
@@ -595,6 +799,54 @@
   "p": "৩ পৃষ্ঠা",
   "s": "Indian Polity",
   "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/Fundamental_Duties_Detailed_Guide.pdf"
+},
+        {
+  "t": "Indian Polity অধ্যায় ৬: ভারতের রাষ্ট্রপতি (President of India)",
+  "p": "৭ পৃষ্ঠা",
+  "s": "Indian Polity",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/President_of_India_Complete_Notes.pdf"
+},
+{
+  "t": "Indian Polity অধ্যায় ৭: ভারতের প্রধানমন্ত্রী (Prime Minister)",
+  "p": "৪ পৃষ্ঠা",
+  "s": "Indian Polity",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/Indian_Polity_Prime_Minister_Notes.pdf"
+},
+{
+  "t": "Indian Polity অধ্যায় ৮: রাজ্যপাল (Governor)",
+  "p": "৬ পৃষ্ঠা",
+  "s": "Indian Polity",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/governor_indian_polity_detailed_study_material.pdf"
+},
+{
+  "t": "Indian Polity অধ্যায় ৯: মুখ্যমন্ত্রী (Chief Minister)",
+  "p": "৪ পৃষ্ঠা",
+  "s": "Indian Polity",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/Chief_Minister_Polity_Notes.pdf"
+},
+{
+  "t": "Indian Polity অধ্যায় ১০: ভারতের সুপ্রিম কোর্ট (Supreme Court)",
+  "p": "৫ পৃষ্ঠা",
+  "s": "Indian Polity",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/Supreme_Court_Detailed_Study.pdf"
+},
+{
+  "t": "Indian Polity অধ্যায় ১১: হাইকোর্ট (High Court)",
+  "p": "৪ পৃষ্ঠা",
+  "s": "Indian Polity",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/High_Court_Complete_Notes.pdf"
+},
+{
+  "t": "Indian Polity অধ্যায় ১২: পঞ্চায়েতি রাজ ব্যবস্থা (Panchayati Raj)",
+  "p": "৬ পৃষ্ঠা",
+  "s": "Indian Polity",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/Panchayati_Raj_System_Detailed_Notes.pdf"
+},
+{
+  "t": "Indian Polity অধ্যায় ১৩: সংবিধান সংশোধনী (Constitutional Amendments)",
+  "p": "৬ পৃষ্ঠা",
+  "s": "Indian Polity",
+  "link": "https://raw.githubusercontent.com/sdjeducation01-pixel/comoedgecontent/refs/heads/main/Constitutional_Amendments_Complete_Guide.pdf"
 },
         {
   "t": "Indian Economy অধ্যায় ১: ভারতীয় অর্থনীতির মৌলিক ধারণা (Basics of Indian Economy)",
